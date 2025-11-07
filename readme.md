@@ -1,5 +1,5 @@
 # ASTRODYNAMICA
-![ASTRODYNAMICA_LOGO_1](assets\images\ASTRODYNAMICA_LOGO.png)
+![ASTRODYNAMICA_LOGO_1](assets/images/ASTRODYNAMICA_LOGO.png)
 Astrodynamica is a lightweight software tool that utilizes **Orekit** and **CesiumJS** to visualize orbital mechanics data in a web-based 3D environment.
 
 ## Features
